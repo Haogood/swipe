@@ -1,5 +1,5 @@
 # swipe [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-Swipe content combined with header tag
+Swiping screen like a native app
 
 #### Using plugin with:
 - [Swiper](https://github.com/nolimits4web/Swiper)
